@@ -3,7 +3,7 @@
 
 * [JSON -> TypeScript 변환](https://jvilk.com/MakeTypes/)
 * [ES 6 클래스에 대해.. poeimaweb ](https://poiemaweb.com/es6-class)
-* [타입스크립트 공식문서 - handbook 한글 번역 문서](https://typescript-kr.github.io/)
+* [타입스크립트 - handbook 한글 번역 문서](https://typescript-kr.github.io/)
 * [타입스크립트 3.8에서 뭐가 바꼈나...](https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-rc/)
 * [리액트트레이닝 공식문서 - 리액트 라우터에도 훅이...](https://reacttraining.com/react-router/web/api/Hooks/uselocation)
 
