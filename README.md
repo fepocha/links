@@ -1,6 +1,6 @@
 ## 2020-02-20
-
-*
+* react-node : 가상 DOM(Virtual DOM) 제 HTML의 DOM이 아닌 React에서 사용하는 Virtual DOM이란 것이 존재합니다. Virtual DOM에는 ReactElement, ReactElement Factory, ReactNode, ReactComponent 그리고 ReactComponent Class가 있습니다
+* [Type Reference - Flow.org](https://flow.org/en/docs/react/types/) - 리액트 Component type에는 어떤 것들이 있는지 잘 정리되어 있어서 공유드려용
 * (1) [Type Guards and Differentiating Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/advanced-types.html#type-guards-and-differentiating-types) 
 * (2) [Utility Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 * (1),(2) - Type 구조 설계를 도와줌 개발할때도 의외로 자주 사용하게 되기도 하지만, @types로 내려받은 Definition들을 볼때 이걸 모르면 이해하기 어려움 (이것 때문에 매우 중요)
