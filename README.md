@@ -1,9 +1,10 @@
 ## 2020-02-21
 * [꼼꼼한 개발자들을 위한 완벽 프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 * [Lighthouse(웹 앱의 품질을 개선하는 오픈 소스 자동화 도구)](https://developers.google.com/web/tools/lighthouse)
-* [webpack과 jest에 alias 처리 관한 블로그글](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9) webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 돌아감!
+* [webpack과 jest에 alias 처리 관한 블로그글](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9)
 
-근데 저는 계속 웹팩 + jsconfig 했다가 웹팩 + jest.config 했다가.. 하면서 계속 실패함
+webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 돌아감!
+
 >  alias 처리에 대한 부가설명 
 : ../../../ 의 형태로 파일 경로 지정을 절대 경로로 바꿀 수 있게 도와줌 .웹팩 설정파일에 alias 처리를 하면 보통 @ 이 문자로 설정하는데
 @를 ./src/로 인식하라고 설정해두는 것.
