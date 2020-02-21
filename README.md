@@ -1,6 +1,11 @@
 ## 2020-02-21
 * [꼼꼼한 개발자들을 위한 완벽 프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
 * [Lighthouse(웹 앱의 품질을 개선하는 오픈 소스 자동화 도구)](https://developers.google.com/web/tools/lighthouse)
+* [webpack과 jest에 alias 처리 관한 블로그글](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9) 
+>  alias 처리에 대한 부가설명 
+: ../../../ 의 형태로 파일 경로 지정을 절대 경로로 바꿀 수 있게 도와줌 .웹팩 설정파일에 alias 처리를 하면 보통 @ 이 문자로 설정하는데
+@를 ./src/로 인식하라고 설정해두는 것.
+
 
 ## 2020-02-20
 * [프론트엔드 면접 은행 (h5bp.org) 한국어](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
