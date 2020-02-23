@@ -1,3 +1,7 @@
+## 2020-02-23
+* [1분코딩의 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
+* [CSS Flex와 Grid를 공부할 수 있는 게임들](https://studiomeal.com/archives/924)
+
 ## 2020-02-22
 * [리액트 컴포넌트 타입스크립트로 작성하기](https://velog.io/@velopert/create-typescript-react-component) - `npx create-react-app ts-react-tutorial --typescript`
 * [iterm2 커즈터마이징 하기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
