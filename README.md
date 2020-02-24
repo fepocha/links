@@ -50,6 +50,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [JSON -> TypeScript 변환](https://jvilk.com/MakeTypes/)
 * [타입스크립트 - handbook 한글 번역 문서](https://typescript-kr.github.io/)
 * [타입스크립트 3.8에서 뭐가 바꼈나...](https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-rc/)
+  * [정리자료 보기](assets/typescript3_8.md)
 * (1) [Type Guards and Differentiating Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/advanced-types.html#type-guards-and-differentiating-types) 
 * (2) [Utility Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 * (1),(2) - Type 구조 설계를 도와줌 개발할때도 의외로 자주 사용하게 되기도 하지만, @types로 내려받은 Definition들을 볼때 이걸 모르면 이해하기 어려움 (이것 때문에 매우 중요)
