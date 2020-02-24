@@ -24,13 +24,6 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 @를 ./src/로 인식하라고 설정해두는 것.
 * [프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
 
-
-### 2020-02-20
-
-
-
-
-
 ---
 
 ## Categories
