@@ -23,7 +23,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [React](#React)
 * [TypeScript](#TypeScript)
 * [ETC](#ETC)
- * [Tool](#Tool)
+  * [Tool](#Tool)
 
 ### CSS
 * [1분코딩의 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
