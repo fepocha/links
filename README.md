@@ -4,8 +4,6 @@
 ## 🐝A week
 
 ### 2020-02-21
-
-* [Lighthouse(웹 앱의 품질을 개선하는 오픈 소스 자동화 도구)](https://developers.google.com/web/tools/lighthouse)
 * [webpack과 jest에 alias 처리 관한 블로그글](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9)
 
 webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 돌아감!
@@ -25,6 +23,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [React](#React)
 * [TypeScript](#TypeScript)
 * [ETC](#ETC)
+ * [Tool](#Tool)
 
 ### CSS
 * [1분코딩의 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
@@ -58,5 +57,8 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 
 ### ETC
 * [muchtrans](https://muchtrans.com/) - 번역문서와 원본(?)을 같이 볼 수 있는 블로그 
-* [iterm2 커즈터마이징 하기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
 * [꼼꼼한 개발자들을 위한 완벽 프론트엔드 체크리스트](https://github.com/kesuskim/Front-End-Checklist)
+
+#### Tool 
+* [iterm2 커즈터마이징 하기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
+* [Lighthouse(웹 앱의 품질을 개선하는 오픈 소스 자동화 도구)](https://developers.google.com/web/tools/lighthouse)
