@@ -1,7 +1,7 @@
-# Links 
+# 🍯Links 
 좋은 slack feeds와 공유한 link를 남기자
 
-## A week
+## 🐝A week
 
 
 ### 2020-02-23
@@ -26,7 +26,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 
 ---
 
-## Categories
+## 🌲Categories
 * [Git Flow](#Git-Flow)
 * [Interview](#Interview)
 * [JavaScript](#JavaScript)
