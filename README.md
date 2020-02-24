@@ -43,6 +43,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 ### React
 * [리액트트레이닝 공식문서 - 리액트 라우터에도 훅이...](https://reacttraining.com/react-router/web/api/Hooks/uselocation)
 * [Type Reference - Flow.org](https://flow.org/en/docs/react/types/) - 리액트 Component type에는 어떤 것들이 있는지 잘 정리되어 있어서 공유드려용
+* [리액트는 어쩌다 만들어졌을까?](https://react.vlpt.us/basic/01-concept.html)
 
 
 ### TypeScript
