@@ -1,17 +1,10 @@
 # 🍯Links 
 좋은 slack feeds와 공유한 link를 남기자
 
-## 🐝A week
+## 🐝 This week's 🍯 Tips
 
-### 2020-02-21
-* [webpack과 jest에 alias 처리 관한 블로그글](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9)
-
-webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 돌아감!
-
->  alias 처리에 대한 부가설명 
-: ../../../ 의 형태로 파일 경로 지정을 절대 경로로 바꿀 수 있게 도와줌 .웹팩 설정파일에 alias 처리를 하면 보통 @ 이 문자로 설정하는데
-@를 ./src/로 인식하라고 설정해두는 것.
-* [프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
+### 2020-02-26
+*  [Lighthouse - Website performance benchmarking tool](https://web.dev/lighthouse-performance/) - 보고 바로 적용할수있도록 문서가 넘 잘 정리되어있음, 영어라서 저도 변역기 돌려서 보고있는데 몇개안봤지만 이해가 쉽게 잘 정리되어있네영
 
 ---
 
@@ -23,6 +16,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [JavaScript](#JavaScript)
 * [React](#React)
 * [TypeScript](#TypeScript)
+* [Webpack](#Webpack)
 * [ETC](#ETC)
   * [Tool](#Tool)
   * [Quiz](#Quiz)
@@ -60,6 +54,14 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * (2) [Utility Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 * (1),(2) - Type 구조 설계를 도와줌 개발할때도 의외로 자주 사용하게 되기도 하지만, @types로 내려받은 Definition들을 볼때 이걸 모르면 이해하기 어려움 (이것 때문에 매우 중요)
 * [리액트 컴포넌트 타입스크립트로 작성하기](https://velog.io/@velopert/create-typescript-react-component) - `npx create-react-app ts-react-tutorial --typescript`
+
+### Webpack
+* [webpack과 jest에 alias 처리 관한 블로그글](https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9) - webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 돌아감!
+>  alias 처리에 대한 부가설명 
+: ../../../ 의 형태로 파일 경로 지정을 절대 경로로 바꿀 수 있게 도와줌 .웹팩 설정파일에 alias 처리를 하면 보통 @ 이 문자로 설정하는데
+@를 ./src/로 인식하라고 설정해두는 것.
+
+* [프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
 
 ### ETC
 * [muchtrans](https://muchtrans.com/) - 번역문서와 원본(?)을 같이 볼 수 있는 블로그 
