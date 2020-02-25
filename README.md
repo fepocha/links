@@ -18,6 +18,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 ## 🌲Categories
 * [CSS](#CSS)
 * [Git Flow](#Git-Flow)
+* [Github](#Github)
 * [Interview](#Interview)
 * [JavaScript](#JavaScript)
 * [React](#React)
@@ -33,6 +34,9 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [Git Flow를 사용해 보자! - Ju Factory](https://yujuwon.tistory.com/entry/GIT-FLOW-git-flow%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%9E%90)
 * [우린 Git-Flow를 사용하고 있어요 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 * [Git Flow 참고자료 By Daniel Kummer 한국어](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+
+### Github
+* [Introducing draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) - draft pull request로 하세요?ㅁ?
 
 ### Interview
 * [프론트엔드 면접 은행 (h5bp.org) 한국어](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
