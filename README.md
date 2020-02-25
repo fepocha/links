@@ -70,5 +70,5 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [Lighthouse(웹 앱의 품질을 개선하는 오픈 소스 자동화 도구)](https://developers.google.com/web/tools/lighthouse)
 
 #### Quiz
-* [new 생성자 함수]
-* [word-break: normal]
+* [new 생성자 함수](quiz/return-from-constructors.md) - [해설](quiz/return-from-constructors-solution.md)
+* [word-break: normal인데 왜 영문이랑 한글이랑 다를까?](quiz/word-break.png) - [해설](https://wit.nts-corp.com/2017/07/25/4675)
