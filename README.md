@@ -25,6 +25,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 * [TypeScript](#TypeScript)
 * [ETC](#ETC)
   * [Tool](#Tool)
+  * [Quiz](#Quiz)
 
 ### CSS
 * [1분코딩의 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
@@ -67,3 +68,7 @@ webpack + jest.config + jsconfig(or tsconfig) 3개를 다 설정해줘야 잘 �
 #### Tool 
 * [iterm2 커즈터마이징 하기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
 * [Lighthouse(웹 앱의 품질을 개선하는 오픈 소스 자동화 도구)](https://developers.google.com/web/tools/lighthouse)
+
+#### Quiz
+* [new 생성자 함수]
+* [word-break: normal]
