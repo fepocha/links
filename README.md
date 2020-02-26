@@ -52,7 +52,6 @@
   * [정리자료 보기](assets/typescript3_8.md)
 * (1) [Type Guards and Differentiating Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/advanced-types.html#type-guards-and-differentiating-types) 
 * (2) [Utility Types - official typescript documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
-* (1),(2) - Type 구조 설계를 도와줌 개발할때도 의외로 자주 사용하게 되기도 하지만, @types로 내려받은 Definition들을 볼때 이걸 모르면 이해하기 어려움 (이것 때문에 매우 중요)
 * [리액트 컴포넌트 타입스크립트로 작성하기](https://velog.io/@velopert/create-typescript-react-component) - `npx create-react-app ts-react-tutorial --typescript`
 
 ### Webpack
