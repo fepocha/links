@@ -3,6 +3,10 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-03-01
+
+* [도서출판 인사이트](http://ebook.insightbook.co.kr/) - 개발관련 서적들을 전자책으로 판매하는 플랫폼
+
 ### 2020-02-26
 *  [blisk](https://blisk.io/) - blisk라는 브라우저인데 되게 괜찮은 기능이 많네요
 
