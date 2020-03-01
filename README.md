@@ -6,6 +6,7 @@
 ### 2020-03-01
 
 * [도서출판 인사이트](http://ebook.insightbook.co.kr/) - 개발관련 서적들을 전자책으로 판매하는 플랫폼
+* [VSCode - Organize Imports](https://github.com/imhojang/til/blob/master/vscode/organize_imports.md) - 정의되어 있지만 한번ㄷ 사용하지 않은 컴포넌트를 제거할 수 있는 단축키
 
 ### 2020-02-26
 *  [blisk](https://blisk.io/) - blisk라는 브라우저인데 되게 괜찮은 기능이 많네요
