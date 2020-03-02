@@ -10,7 +10,8 @@
 * [Typescript 에서 Type을 기술하는 두 가지 방법, Interface와 Type Alias.github](https://joonsungum.github.io/post/2019-02-25-typescript-interface-and-type-alias/)
 * [리덕스를 도입하는데 주저하게 만드는 장벽들 - 1. redux-saga 쓰지말아야 할 이유.youtube](https://www.youtube.com/watch?v=1VNb_wmDiv8&feature=youtu.be&loop=0&fbclid=IwAR2TbKR1J8F8q-EB1sMYMdr9uCKUwTpclHZ2Yc320RNxX8ocltvKX8EqSQ8)
 * [npm-check](https://www.npmjs.com/package/npm-check) - check for outdated, incorrect, and unused dependencies
-* [the developer's way - 모두가 코딩을 배울 필요는 없다](GN#34] The Developer's Way - 모두가 코딩을 배울 필요는 없다 | GeekNews W)
+* [GN#34 The Developer's Way - 모두가 코딩을 배울 필요는 없다](https://news.hada.io/weekly/202009)
+
 ### 2020-03-01
 
 * [도서출판 인사이트](http://ebook.insightbook.co.kr/) - 개발관련 서적들을 전자책으로 판매하는 플랫폼
