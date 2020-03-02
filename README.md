@@ -3,6 +3,13 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-03-02
+
+* [프런트엔드 마스터가 되고 싶다면 만들어야할 프로젝트 9선.blog](https://tagilog.tistory.com/582) 
+* [Promise, 가만히 냅두면 어떻게 될까?.blog](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
+* [Typescript 에서 Type을 기술하는 두 가지 방법, Interface와 Type Alias.github](https://joonsungum.github.io/post/2019-02-25-typescript-interface-and-type-alias/)
+* [리덕스를 도입하는데 주저하게 만드는 장벽들 - 1. redux-saga 쓰지말아야 할 이유.youtube](https://www.youtube.com/watch?v=1VNb_wmDiv8&feature=youtu.be&loop=0&fbclid=IwAR2TbKR1J8F8q-EB1sMYMdr9uCKUwTpclHZ2Yc320RNxX8ocltvKX8EqSQ8)
+
 ### 2020-03-01
 
 * [도서출판 인사이트](http://ebook.insightbook.co.kr/) - 개발관련 서적들을 전자책으로 판매하는 플랫폼
