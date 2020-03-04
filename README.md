@@ -6,6 +6,8 @@
 
 ### 2020-03-04
 
+- [What should come first in URL, hash or querystring?](https://stackoverflow.com/questions/55334160/what-should-come-first-in-url-hash-or-querystring) 쿼리스트링 먼저쓰고 해쉬를 씀
+
 ### 2020-03-03
 
 - [깃허브에서 1만 스타 받은 한국의 오픈소스들](https://byline.network/2020/03/3-63/?fbclid=IwAR0KOb4BIA1Yhuy2Buefw4UWuUJaQBbEFeJasN6uILae57Bhs1FW5NN6-ak)
