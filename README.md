@@ -45,7 +45,7 @@
 
 - [1분코딩의 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
 - [CSS Flex와 Grid를 공부할 수 있는 게임들](https://studiomeal.com/archives/924)
-- [Animation 성능 테스트 샘플] (https://lonekorean.github.io/animation-workshop/)
+- [Animation 성능 테스트 샘플](https://lonekorean.github.io/animation-workshop/)
 
 ### Git Flow
 
