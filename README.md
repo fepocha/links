@@ -4,6 +4,16 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-03-09
+ 
+- [Git 은 어떻게 변화를 추적하고 저장할까?](https://readystory.tistory.com/146)
+- [Reactive Programming과 RxJS](https://poiemaweb.com/angular-rxjs) Rx.js 기본개념 잡기 좋아요.
+- [Chrome Extension: VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) JavaScript로 구축 된 오픈 소스 웹 디자인 디버깅 도구
+
+### 2020-03-08
+
+- [Phaser, Socket.io 및 Node.js를 사용하여 멀티 플레이어 온라인 게임을 만드는 방법](https://phaserjs.tistory.com/42)
+
 ### 2020-03-04
 
 - [What should come first in URL, hash or querystring?](https://stackoverflow.com/questions/55334160/what-should-come-first-in-url-hash-or-querystring) 쿼리스트링 먼저쓰고 해쉬를 씀
