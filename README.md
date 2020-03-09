@@ -5,7 +5,10 @@
 ## 🐝 This week's 🍯 Tips
 
 ### 2020-03-09
- 
+
+- [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+- [CSS animation 성능 테스트](https://lonekorean.github.io/animation-workshop/)
+- [HTTP/2 소개](https://developers.google.com/web/fundamentals/performance/http2/?hl=ko)
 - [Git 은 어떻게 변화를 추적하고 저장할까?](https://readystory.tistory.com/146)
 - [Reactive Programming과 RxJS](https://poiemaweb.com/angular-rxjs) Rx.js 기본개념 잡기 좋아요.
 - [Chrome Extension: VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) JavaScript로 구축 된 오픈 소스 웹 디자인 디버깅 도구
