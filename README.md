@@ -8,6 +8,10 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-03-12
+
+- [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
+
 ### 2020-03-09
 
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
