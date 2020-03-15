@@ -68,6 +68,7 @@
 - [1분코딩의 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
 - [CSS Flex와 Grid를 공부할 수 있는 게임들](https://studiomeal.com/archives/924)
 - [Animation 성능 테스트 샘플](https://lonekorean.github.io/animation-workshop/)
+- [플렉스(flex) 박스, 한번 정리하고 가자](https://jeonghwan-kim.github.io/dev/2020/03/09/flex.html)
 
 ### Git Flow
 
