@@ -8,6 +8,9 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-03-16
+ - [1분코딩](https://studiomeal.com/product)
+
 ### 2020-03-12
 
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
