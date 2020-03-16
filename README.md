@@ -9,7 +9,7 @@
 ## 🐝 This week's 🍯 Tips
 
 ### 2020-03-16
- - [1분코딩](https://studiomeal.com/product)
+ - [1분코딩](https://studiomeal.com/product) - 코딩 컨텐츠와 더불어 IT, 디자인, 개발, 1인기업, 프리랜서, 업계 소식 등 여러가지를 올리고자 함. CSS 관련 글이 많음.
 
 ### 2020-03-12
 
