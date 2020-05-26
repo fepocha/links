@@ -8,6 +8,9 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-05-27
+ - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-ko.md) - 각종 개발 언어를 무료로 배울 수 있는 곳을 모아놓음. (Imho's pick!)
+
 ### 2020-03-16
  - [1분코딩](https://studiomeal.com/product) - 코딩 컨텐츠와 더불어 IT, 디자인, 개발, 1인기업, 프리랜서, 업계 소식 등 여러가지를 올리고자 함. CSS 관련 글이 많음.
 
