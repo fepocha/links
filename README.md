@@ -8,6 +8,10 @@
 
 ## 🐝 This week's 🍯 Tips
 
+### 2020-06-04
+
+- [서버와 호스트의 차이](https://blog.naver.com/myca11/221369799273)
+
 ### 2020-05-27
  - [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-ko.md) - 각종 개발 언어를 무료로 배울 수 있는 곳을 모아놓음. (Imho's pick!)
 
