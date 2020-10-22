@@ -1,7 +1,7 @@
 # **Return** from **constructors**
 
 ```js
-function Person (name, age) {
+function Person (name, age) {  
   this.name = name;
   this.age = age;
   return 'buz';
