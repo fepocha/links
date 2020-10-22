@@ -1,6 +1,6 @@
 # 🍯Links
 
-좋은 slack feeds와 공유한 link를 남기자
+좋은 slack feeds와 공유한 link를 남기자!
 
 ## Repo Guideline
 
