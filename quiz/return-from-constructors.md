@@ -8,7 +8,7 @@ function Person (name, age) {
 }
 function Animal (name, age) {
   this.name = name;
-  this.age = age;
+  this.age = age;  
   return {name: 'toto', age: 3};
 }
 const a = new Person('bar', 20);
