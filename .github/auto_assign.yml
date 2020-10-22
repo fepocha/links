@@ -3,22 +3,15 @@ addReviewers: true
 
 # Set to true to add assignees to pull requests
 addAssignees: false
-# Set to true to add reviewers from different groups to pull requests
-useReviewGroups: true
+
+# A list of reviewers to be added to pull requests (GitHub user name)
+reviewers:
+  - myeongwon
+  - dwook
 
 # A number of reviewers added to the pull request
 # Set 0 to add all the reviewers (default: 0)
 numberOfReviewers: 0
-
-# Set to true to add reviewers from different groups to pull requests
-useReviewGroups: true
-
-# A list of reviewers, split into different groups, to be added to pull requests (GitHub user name)
-reviewers:
-  - myeongwon
-  - yami03
-  - dwook
-  - onerain92
 
 # A list of assignees, overrides reviewers if set
 # assignees:
