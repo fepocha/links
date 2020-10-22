@@ -6,7 +6,7 @@ function Person (name, age) {
   this.age = age;
   return 'buz';
 }
-function Animal (name, age) {
+function Animal (name, age) {  
   this.name = name;
   this.age = age;
   return {name: 'toto', age: 3};
