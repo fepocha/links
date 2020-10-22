@@ -14,15 +14,11 @@ numberOfReviewers: 0
 useReviewGroups: true
 
 # A list of reviewers, split into different groups, to be added to pull requests (GitHub user name)
-reviewGroups:
-  groupA:
-    - myeongwon
-    - yami03
-  groupB:
-    - dwook
-    
-
-
+reviewers:
+  - myeongwon
+  - yami03
+  - dwook
+  - onerain92
 
 # A list of assignees, overrides reviewers if set
 # assignees:
