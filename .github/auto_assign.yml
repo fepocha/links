@@ -10,7 +10,7 @@ addAssignees: false
 # numberOfAssignees: 2
 
 # Set to true to add reviewers from different groups to pull requests
-useReviewGroups: true
+useReviewGroups: false
 
 # A list of reviewers, split into different groups, to be added to pull requests (GitHub user name)
 reviewGroups:
