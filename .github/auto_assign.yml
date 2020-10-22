@@ -10,6 +10,9 @@ useReviewGroups: true
 # Set 0 to add all the reviewers (default: 0)
 numberOfReviewers: 0
 
+# Set to true to add reviewers from different groups to pull requests
+useReviewGroups: true
+
 # A list of reviewers, split into different groups, to be added to pull requests (GitHub user name)
 reviewGroups:
   groupA:
