@@ -23,7 +23,6 @@ reviewGroups:
     - dwook
   groupB:
     - onerain92
-    - yami03
 
 # Set to true to add assignees from different groups to pull requests
 useAssigneeGroups: false
