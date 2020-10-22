@@ -4,7 +4,7 @@
 function Person (name, age) {
   this.name = name;
   this.age = age;
-  return 'buz';
+  return 'buz'; 
 }
 function Animal (name, age) {
   this.name = name;
