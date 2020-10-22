@@ -4,7 +4,7 @@ https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-rc/
 - type만 import 가능
 
 ```
-import type { SomeType } from './some-module.ts';
+import type { SomeType } from './some-module.ts'; 
 ```
 
 ---------------
