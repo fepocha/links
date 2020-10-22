@@ -3,7 +3,7 @@
 ```js
 function Person (name, age) {
   this.name = name;    
-  this.age = age;
+  this.age = age;  
   return 'buz';
 }   
 function Animal (name, age) {
