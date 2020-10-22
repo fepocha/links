@@ -6,7 +6,7 @@ https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-rc/
 ```
 import type { SomeType } from './some-module.ts'; 
 ```
-
+   
 ---------------
 
 - ECMAScript’s private fields(#) 지원
