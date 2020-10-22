@@ -19,7 +19,7 @@ reviewGroups:
 numberOfReviewers: 0
 
 # Set to true to add reviewers from different groups to pull requests
-useReviewGroups: true
+useReviewGroups: false
 
 # Set to true to add assignees from different groups to pull requests
 useAssigneeGroups: false
