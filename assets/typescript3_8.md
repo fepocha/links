@@ -1,6 +1,6 @@
 https://devblogs.microsoft.com/typescript/announcing-typescript-3-8-rc/
 타입스크립트 3.8에서 뭐가 바꼈나... @juyeonH 작성
-
+  
 - type만 import 가능
 
 ```
