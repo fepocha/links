@@ -7,4 +7,4 @@
 >**이 곳은 개인적인 북마크를 공유하는 곳이 아닙니다. 읽어보지 않은 포스트, 즉 직접 검증하지 않은 포스트 공유는 삼가 주세요. 불필요한 자료들이 늘어나게 되고, 알짜 정보만 모으려는 본래 저장소 목적이 흐려집니다.**
 
 `pushpushbaby`라는 슬랙봇을 이용하면 쉽게 슬랙으로 링크를 업로드할 수 있습니다.
-(pushpushbaby의 사용법이 궁금하다면?! [Click Here](https://github.com/jy7123943/pushpushbaby)!)
+- (pushpushbaby의 사용법이 궁금하다면?! [Click Here](https://github.com/jy7123943/pushpushbaby)!)
